@@ -1,0 +1,48 @@
+6/18/18, p = .95
+.\Renders\0_0.png : x pi_*_tan pi_*_cos pi_*_sin pi_*_cos x * pi_*_sin pi_*_tan x pi_*_cos sqrt y pi_*_cos x + y x - - pi_*_sin + - 
+.\Renders\0_1.png : y pi_*_cos y * 
+.\Renders\0_2.png : y y x + pi_*_tan pi_*_cos x sqrt pi_*_tan - pi_*_sin pi_*_sin / 
+.\Renders\0_3.png : x pi_*_tan 
+.\Renders\1_0.png : x pi_*_cos y x sqrt / / sqrt 
+.\Renders\1_1.png : y y * pi_*_sin y + y x y * pi_*_sin pi_*_tan + pi_*_tan y x - pi_*_sin pi_*_cos + pi_*_sin * y x sqrt y - - x pi_*_cos y pi_*_tan pi_*_tan / / * 
+.\Renders\1_2.png : x x + pi_*_tan pi_*_cos y y pi_*_tan pi_*_tan * - y x y / pi_*_cos * sqrt + y y pi_*_tan pi_*_tan pi_*_tan y sqrt x * pi_*_cos pi_*_sin pi_*_tan + sqrt - + pi_*_cos 
+.\Renders\1_3.png : y pi_*_sin x pi_*_sin y - x pi_*_cos * / pi_*_tan x * pi_*_tan 
+.\Renders\2_0.png : x x y / * x - 
+.\Renders\2_1.png : x y - y y x / x x - - - * y y sqrt / y + pi_*_tan y y x + + pi_*_sin y - sqrt pi_*_tan * sqrt pi_*_sin * 
+.\Renders\2_2.png : x y y - * x pi_*_tan - x * pi_*_sin pi_*_cos y pi_*_cos sqrt - pi_*_cos 
+.\Renders\2_3.png : y pi_*_tan x - pi_*_tan x x y - + x y pi_*_tan y / * x y - - pi_*_tan + pi_*_sin pi_*_tan * 
+.\Renders\3_0.png : y x pi_*_cos * x sqrt pi_*_tan + y + 
+.\Renders\3_1.png : x y pi_*_sin / x y x / + pi_*_sin sqrt pi_*_tan * pi_*_sin y pi_*_sin / 
+.\Renders\3_2.png : y y x + sqrt x / pi_*_cos pi_*_cos pi_*_sin + x y - pi_*_tan - pi_*_tan x pi_*_tan + 
+.\Renders\3_3.png : x y x x * * pi_*_sin pi_*_tan pi_*_tan / x y / + pi_*_sin sqrt sqrt y - 
+.\Renders\4_0.png : y pi_*_cos y / y sqrt x y x * + - x x + y x x pi_*_tan / - - sqrt / / 
+.\Renders\4_1.png : y sqrt pi_*_tan y * sqrt x / y pi_*_cos x pi_*_sin - x x / x x / / pi_*_cos + sqrt - pi_*_sin 
+.\Renders\4_2.png : x x pi_*_sin pi_*_sin sqrt / y sqrt y * sqrt y pi_*_sin + / y sqrt pi_*_tan pi_*_cos pi_*_tan pi_*_tan sqrt + 
+.\Renders\4_3.png : x y y - + pi_*_tan pi_*_sin y - x pi_*_tan pi_*_sin y y * / pi_*_tan pi_*_tan pi_*_tan - x x / pi_*_tan pi_*_cos pi_*_tan x sqrt pi_*_tan y * pi_*_cos - pi_*_sin sqrt x pi_*_sin y pi_*_tan / pi_*_sin - pi_*_sin / pi_*_sin 
+.\Renders\5_0.png : y pi_*_sin pi_*_sin x + y y sqrt x y - / sqrt / x x pi_*_cos x y - pi_*_sin / / pi_*_tan pi_*_cos - pi_*_tan - pi_*_cos pi_*_cos 
+.\Renders\5_1.png : y y - x pi_*_tan + x x * x + + y x x / * pi_*_cos x y sqrt pi_*_cos sqrt pi_*_sin + / sqrt * pi_*_sin y pi_*_sin sqrt x x x - y / / / y x pi_*_cos / y pi_*_cos pi_*_cos / pi_*_sin pi_*_cos + + 
+.\Renders\5_2.png : x pi_*_sin y sqrt - pi_*_sin pi_*_tan x - sqrt pi_*_sin pi_*_cos pi_*_tan pi_*_tan pi_*_sin sqrt y pi_*_cos pi_*_tan x pi_*_cos x pi_*_tan + * * pi_*_sin pi_*_sin pi_*_cos pi_*_cos 
+.\Renders\5_3.png : x y x * - pi_*_tan sqrt y pi_*_cos y x + y x / / pi_*_cos * + 
+.\Renders\6_0.png : x y y * + pi_*_tan y x pi_*_tan * pi_*_sin pi_*_cos x pi_*_sin pi_*_cos x * * + x x x y - x / - * pi_*_sin pi_*_tan / pi_*_sin 
+.\Renders\6_1.png : x y x x * + * pi_*_sin y - y pi_*_sin x x y - - sqrt x y / + / pi_*_tan - sqrt x pi_*_tan y + pi_*_cos * 
+.\Renders\6_2.png : y x sqrt pi_*_sin sqrt / x pi_*_cos - pi_*_tan 
+.\Renders\6_3.png : x pi_*_tan y sqrt y pi_*_sin * + x pi_*_tan y / pi_*_sin sqrt x x - y * pi_*_sin sqrt - - 
+.\Renders\7_0.png : y sqrt pi_*_tan y sqrt x + * y - y x - pi_*_sin pi_*_sin - 
+.\Renders\7_1.png : x pi_*_sin sqrt y sqrt y + pi_*_sin sqrt / x x pi_*_cos y sqrt + pi_*_cos * - x y / x * / 
+.\Renders\7_2.png : y pi_*_tan y y + x y + x * + sqrt y pi_*_sin x + + / y y / x x pi_*_tan - x y / y - pi_*_cos pi_*_cos * / sqrt pi_*_cos / pi_*_cos pi_*_sin pi_*_tan 
+.\Renders\7_3.png : y y x y / pi_*_sin + / y x sqrt x * - y pi_*_tan y pi_*_tan * + y + pi_*_sin - sqrt 
+.\Renders\8_0.png : y x - pi_*_tan x + sqrt sqrt x sqrt * x sqrt x - sqrt pi_*_tan - x y x y - pi_*_sin * / pi_*_cos x x / y pi_*_cos / sqrt - sqrt sqrt pi_*_tan / pi_*_cos 
+.\Renders\8_1.png : x pi_*_cos x pi_*_sin - y y - x * sqrt * y * pi_*_tan sqrt pi_*_cos x * 
+.\Renders\8_2.png : y pi_*_cos y y x - sqrt y x + + * - pi_*_cos y pi_*_tan / 
+.\Renders\8_3.png : x x y * sqrt y y - pi_*_sin - x x y pi_*_tan + x - - sqrt * y pi_*_sin sqrt / pi_*_sin + 
+.\Renders\9_0.png : y sqrt sqrt pi_*_sin x x * x pi_*_tan - / pi_*_sin pi_*_tan 
+.\Renders\9_1.png : y 
+.\Renders\9_2.png : y y pi_*_sin - pi_*_cos pi_*_cos x sqrt sqrt pi_*_cos x * pi_*_sin y x - y x pi_*_cos y + * / - pi_*_cos * 
+.\Renders\9_3.png : x y y pi_*_cos sqrt sqrt pi_*_sin / - x x pi_*_sin + pi_*_sin x - pi_*_cos sqrt y x sqrt + pi_*_cos + sqrt + x y sqrt / y + x x / + pi_*_cos pi_*_sin y x * / * 
+.\Renders\10_0.png : y pi_*_cos pi_*_cos y sqrt pi_*_sin + pi_*_cos y y pi_*_sin - - pi_*_cos 
+.\Renders\10_1.png : y sqrt y / 
+.\Renders\10_2.png : x y + x - pi_*_tan x y pi_*_sin + y pi_*_sin + x x x * pi_*_cos pi_*_cos sqrt pi_*_cos + pi_*_cos - pi_*_cos sqrt sqrt / x y sqrt / sqrt sqrt / pi_*_tan pi_*_sin sqrt 
+.\Renders\10_3.png : x x pi_*_tan pi_*_cos * y x - / pi_*_sin pi_*_tan 
+.\Renders\11_0.png : x y * sqrt y / x y y * - * y pi_*_cos * sqrt pi_*_sin sqrt pi_*_sin x pi_*_cos pi_*_cos sqrt x x / / y - sqrt - 
+.\Renders\11_1.png : x pi_*_sin pi_*_cos y pi_*_sin pi_*_sin y pi_*_sin / x pi_*_cos + pi_*_tan pi_*_tan + pi_*_cos y + 
+.\Renders\11_2.png : y sqrt sqrt x pi_*_tan pi_*_sin - sqrt x / x y y - pi_*_sin + + sqrt pi_*_sin x x pi_*_tan + y - x - pi_*_sin - 

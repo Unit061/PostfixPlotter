@@ -1,5 +1,6 @@
 import random
 import math
+from mandel import mandelbrot
 
 
 def is_number(s):
@@ -13,8 +14,8 @@ def is_number(s):
 
 
 OPERATORS = {  # Function and number of operands for each operator or function
-    "+": (lambda x, y: x + y, 2),
-    "-": (lambda x, y: x - y, 2),
+    "+": (lambda x, y: min([max([x + y, -1.00]), 1.00]), 2),
+    "-": (lambda x, y: min([max([x - y, -1.00]), 1.00]), 2),
     "*": (lambda x, y: x * y, 2),
     # "/": (lambda x, y: x / y, 2), # Proper division
     "/": (lambda x, y: x / (y + .001*(y == 0)), 2),  # Divide by zero error workaround
@@ -26,7 +27,8 @@ OPERATORS = {  # Function and number of operands for each operator or function
     "pi_*_sin": (lambda x: math.sin(math.pi*x), 1),
     "pi_*_cos": (lambda x: math.cos(math.pi*x), 1),
     "pi_*_tan": (lambda x: math.tan(math.pi*x), 1),
-    ".5_pi_/_%": (lambda x: x % (.5 / math.pi), 1)
+    "mandelbrot": (mandelbrot, 2)
+    # ".5_pi_/_%": (lambda x: x % (.5 / math.pi), 1)
 }
 
 
@@ -35,6 +37,8 @@ def rpn(expr, variables=None):
     expr -- Expression to be evaluated
     variables -- Dictionary of any variables in expr and corresponding values; 
     """
+    if expr == '':
+        return -1
     if variables is None:
         variables = []
 

@@ -1,0 +1,10 @@
+Value:
+y pi_*_cos y x * pi_*_sin y sqrt pi_*_cos y x - / * x * pi_*_sin sqrt sqrt pi_*_tan sqrt sqrt pi_*_cos pi_*_sin +
+
+Combination:
+x x x x * - pi_*_cos - pi_*_tan sqrt pi_*_cos y pi_*_cos x * x + + pi_*_cos
+x sqrt
+y pi_*_tan x - pi_*_sin x pi_*_tan y y x - x * * pi_*_tan / pi_*_sin + pi_*_sin
+y y pi_*_sin sqrt - y x + pi_*_cos y pi_*_tan / * pi_*_sin
+
+Combination:
